@@ -1,4 +1,4 @@
-# theRealTestofLLMs
+# The Real Test of LLMs
 
 Bem-vindo ao **theRealTestofLLMs**! Este projeto avalia de verdade a qualidade de um LLM através do método mais eficaz conhecido: uma batalha de rap. 
 Prepare-se para uma disputa insana, cheia de insultos e muita criatividade! 🎤🔥
